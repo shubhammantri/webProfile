@@ -1,0 +1,41 @@
+
+.image_setting{
+
+  align-self: center;
+  height: 300px;
+  width: 250px;
+
+}
+.site-header{
+  background-color: hsl(hsl(199, 9%, 97%));
+  color: hsl(0,0%,0%);
+  font-family: 'Sarabun', sans-serif;
+  font-size: 10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+
+}
+.site-header-content{
+  margin: 10px;
+  padding: 10px;
+}
+body{
+  margin: 0px;
+
+}
+footer{
+  float: center;
+  padding: 20px;
+  margin-bottom: 20px;
+
+
+}
+.nav-menu{
+  position: relative;
+    float: right;
+    margin: 5px;
+    margin-top: 50px;
+}
